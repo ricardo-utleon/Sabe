@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 0,
+    "width": 3024,
+    "height": 4032,
+    "isRotated": true,
+    "originalWidth": 3024,
+    "originalHeight": 4032
+  },
+  "imagePath": "image-targets/Nubecita_luminance.jpg",
+  "metadata": null,
+  "name": "Nubecita",
+  "resources": {
+    "originalImage": "Nubecita_original.jpg",
+    "croppedImage": "Nubecita_cropped.jpg",
+    "thumbnailImage": "Nubecita_thumbnail.jpg",
+    "luminanceImage": "Nubecita_luminance.jpg"
+  },
+  "created": 1792677397598,
+  "updated": 1792677397598
+}
